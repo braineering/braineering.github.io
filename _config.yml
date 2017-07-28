@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: Braineering
+description: Official Braineering Github page
+
+show_downloads: False
+
+google_analytics: UA-103560386-1
